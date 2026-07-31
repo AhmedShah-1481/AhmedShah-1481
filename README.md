@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:6366f1&height=220&section=header&text=Ahmed%20Shah&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20Web%20Developer&descAlignY=55&descSize=20" width="100%"/>
 
-<img src="./assets/profile.jpg" width="160" style="border-radius:50%;border:4px solid #6366f1;" alt="Syed Muhammed Ahmed Bin Haider"/>
-
 <h2>Syed Muhammed Ahmed Bin Haider</h2>
 
 <a href="https://www.linkedin.com/in/ahmed-shah-1481alpha/">
@@ -110,3 +108,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:0f172a&height=120&section=footer"/>
 
 </div>
+
