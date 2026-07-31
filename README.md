@@ -85,7 +85,7 @@
 
 </div>
 
-> ⚙️ The snake animates itself automatically once you add the GitHub Action below (step 3 in setup notes).
+
 
 <br/>
 
